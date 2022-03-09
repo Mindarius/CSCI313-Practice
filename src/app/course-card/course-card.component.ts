@@ -7,9 +7,7 @@ import { Course } from '../model/course';
   styleUrls: ['./course-card.component.css'],
 })
 export class CourseCardComponent implements OnInit {
-  @Input() course: Course;
-
   constructor() {}
-
+  course;
   ngOnInit() {}
 }
