@@ -7,5 +7,5 @@ import {COURSES} from '../db-data';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-
+  
 }
